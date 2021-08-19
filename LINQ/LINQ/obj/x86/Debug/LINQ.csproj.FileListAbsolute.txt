@@ -1,0 +1,5 @@
+Q:\gconlon13\CS371\LINQ\LINQ\bin\Debug\LINQ.exe
+Q:\gconlon13\CS371\LINQ\LINQ\bin\Debug\LINQ.pdb
+Q:\gconlon13\CS371\LINQ\LINQ\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\gconlon13\CS371\LINQ\LINQ\obj\x86\Debug\LINQ.exe
+Q:\gconlon13\CS371\LINQ\LINQ\obj\x86\Debug\LINQ.pdb

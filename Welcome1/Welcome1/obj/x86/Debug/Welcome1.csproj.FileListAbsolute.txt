@@ -1,0 +1,5 @@
+Q:\gconlon13\CS371\Welcome1\Welcome1\bin\Debug\Welcome1.exe
+Q:\gconlon13\CS371\Welcome1\Welcome1\bin\Debug\Welcome1.pdb
+Q:\gconlon13\CS371\Welcome1\Welcome1\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\gconlon13\CS371\Welcome1\Welcome1\obj\x86\Debug\Welcome1.exe
+Q:\gconlon13\CS371\Welcome1\Welcome1\obj\x86\Debug\Welcome1.pdb

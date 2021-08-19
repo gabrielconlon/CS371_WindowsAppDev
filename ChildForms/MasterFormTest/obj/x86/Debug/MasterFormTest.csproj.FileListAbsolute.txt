@@ -1,0 +1,11 @@
+Q:\gconlon13\CS371\ChildForms\MasterFormTest\bin\Debug\MasterFormTest.exe
+Q:\gconlon13\CS371\ChildForms\MasterFormTest\bin\Debug\MasterFormTest.pdb
+Q:\gconlon13\CS371\ChildForms\MasterFormTest\bin\Debug\ChildForms.dll
+Q:\gconlon13\CS371\ChildForms\MasterFormTest\bin\Debug\ChildForms.pdb
+Q:\gconlon13\CS371\ChildForms\MasterFormTest\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\gconlon13\CS371\ChildForms\MasterFormTest\obj\x86\Debug\MasterFormTest.Form1.resources
+Q:\gconlon13\CS371\ChildForms\MasterFormTest\obj\x86\Debug\MasterFormTest.Properties.Resources.resources
+Q:\gconlon13\CS371\ChildForms\MasterFormTest\obj\x86\Debug\GenerateResource.read.1.tlog
+Q:\gconlon13\CS371\ChildForms\MasterFormTest\obj\x86\Debug\GenerateResource.write.1.tlog
+Q:\gconlon13\CS371\ChildForms\MasterFormTest\obj\x86\Debug\MasterFormTest.exe
+Q:\gconlon13\CS371\ChildForms\MasterFormTest\obj\x86\Debug\MasterFormTest.pdb

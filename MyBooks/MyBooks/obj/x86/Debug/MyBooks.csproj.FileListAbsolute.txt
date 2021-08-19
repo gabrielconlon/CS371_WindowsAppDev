@@ -1,0 +1,15 @@
+C:\Users\gconlon13\Desktop\MyBooks\MyBooks\bin\Debug\MyBooks.mdf
+C:\Users\gconlon13\Desktop\MyBooks\MyBooks\bin\Debug\MyBooks_log.ldf
+C:\Users\gconlon13\Desktop\MyBooks\MyBooks\bin\Debug\MyBooks.exe.config
+C:\Users\gconlon13\Desktop\MyBooks\MyBooks\bin\Debug\MyBooks.exe
+C:\Users\gconlon13\Desktop\MyBooks\MyBooks\bin\Debug\MyBooks.pdb
+C:\Users\gconlon13\Desktop\MyBooks\MyBooks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gconlon13\Desktop\MyBooks\MyBooks\obj\x86\Debug\MyBooks.Form1.resources
+C:\Users\gconlon13\Desktop\MyBooks\MyBooks\obj\x86\Debug\MyBooks.Properties.Resources.resources
+C:\Users\gconlon13\Desktop\MyBooks\MyBooks\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gconlon13\Desktop\MyBooks\MyBooks\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gconlon13\Desktop\MyBooks\MyBooks\obj\x86\Debug\MyBooks.exe
+C:\Users\gconlon13\Desktop\MyBooks\MyBooks\obj\x86\Debug\MyBooks.pdb
+C:\Users\gconlon13\Desktop\MyBooks\MyBooks\bin\Debug\Books.designer.cs
+C:\Users\gconlon13\Desktop\MyBooks\MyBooks\bin\Debug\Books.dbml.layout
+C:\Users\gconlon13\Desktop\MyBooks\MyBooks\bin\Debug\Books.dbml

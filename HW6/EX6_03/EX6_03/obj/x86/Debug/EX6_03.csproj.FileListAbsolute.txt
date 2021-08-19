@@ -1,0 +1,15 @@
+C:\Users\gconlon13\Desktop\EX6_03\EX6_03\bin\Debug\PeopleData.designer.cs
+C:\Users\gconlon13\Desktop\EX6_03\EX6_03\bin\Debug\PeopleData.dbml.layout
+C:\Users\gconlon13\Desktop\EX6_03\EX6_03\bin\Debug\PeopleData.dbml
+C:\Users\gconlon13\Desktop\EX6_03\EX6_03\bin\Debug\Roster.mdf
+C:\Users\gconlon13\Desktop\EX6_03\EX6_03\bin\Debug\Roster_log.ldf
+C:\Users\gconlon13\Desktop\EX6_03\EX6_03\bin\Debug\EX6_03.exe.config
+C:\Users\gconlon13\Desktop\EX6_03\EX6_03\bin\Debug\EX6_03.exe
+C:\Users\gconlon13\Desktop\EX6_03\EX6_03\bin\Debug\EX6_03.pdb
+C:\Users\gconlon13\Desktop\EX6_03\EX6_03\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gconlon13\Desktop\EX6_03\EX6_03\obj\x86\Debug\EX6_03.Form1.resources
+C:\Users\gconlon13\Desktop\EX6_03\EX6_03\obj\x86\Debug\EX6_03.Properties.Resources.resources
+C:\Users\gconlon13\Desktop\EX6_03\EX6_03\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gconlon13\Desktop\EX6_03\EX6_03\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gconlon13\Desktop\EX6_03\EX6_03\obj\x86\Debug\EX6_03.exe
+C:\Users\gconlon13\Desktop\EX6_03\EX6_03\obj\x86\Debug\EX6_03.pdb

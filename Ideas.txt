@@ -1,0 +1,4 @@
+-stats calculator
+-categorized items
+-sillouhette to show were things are
+	-tool tips on each square

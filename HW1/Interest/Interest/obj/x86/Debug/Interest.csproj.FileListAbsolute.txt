@@ -1,0 +1,5 @@
+Q:\gconlon13\CS371\Interest\Interest\bin\Debug\Interest.exe
+Q:\gconlon13\CS371\Interest\Interest\bin\Debug\Interest.pdb
+Q:\gconlon13\CS371\Interest\Interest\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\gconlon13\CS371\Interest\Interest\obj\x86\Debug\Interest.exe
+Q:\gconlon13\CS371\Interest\Interest\obj\x86\Debug\Interest.pdb

@@ -1,0 +1,9 @@
+Q:\gconlon13\CS371\bug\bug\bin\Debug\bug.exe
+Q:\gconlon13\CS371\bug\bug\bin\Debug\bug.pdb
+Q:\gconlon13\CS371\bug\bug\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\gconlon13\CS371\bug\bug\obj\x86\Debug\bug.Form1.resources
+Q:\gconlon13\CS371\bug\bug\obj\x86\Debug\bug.Properties.Resources.resources
+Q:\gconlon13\CS371\bug\bug\obj\x86\Debug\GenerateResource.read.1.tlog
+Q:\gconlon13\CS371\bug\bug\obj\x86\Debug\GenerateResource.write.1.tlog
+Q:\gconlon13\CS371\bug\bug\obj\x86\Debug\bug.exe
+Q:\gconlon13\CS371\bug\bug\obj\x86\Debug\bug.pdb

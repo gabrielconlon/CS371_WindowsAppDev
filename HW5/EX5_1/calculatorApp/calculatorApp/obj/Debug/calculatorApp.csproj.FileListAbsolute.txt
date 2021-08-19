@@ -1,0 +1,22 @@
+C:\Users\gconlon13\Desktop\calculatorApp\calculatorApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gconlon13\Desktop\calculatorApp\calculatorApp\obj\Debug\App.g.i.cs
+C:\Users\gconlon13\Desktop\calculatorApp\calculatorApp\Bin\Debug\ApplicationIcon.png
+C:\Users\gconlon13\Desktop\calculatorApp\calculatorApp\Bin\Debug\Background.png
+C:\Users\gconlon13\Desktop\calculatorApp\calculatorApp\Bin\Debug\calculatorApp.pdb
+C:\Users\gconlon13\Desktop\calculatorApp\calculatorApp\obj\Debug\MainPage.g.i.cs
+C:\Users\gconlon13\Desktop\calculatorApp\calculatorApp\obj\Debug\calculatorApp.g.resources
+C:\Users\gconlon13\Desktop\calculatorApp\calculatorApp\obj\Debug\calculatorApp.dll
+C:\Users\gconlon13\Desktop\calculatorApp\calculatorApp\obj\Debug\calculatorApp.pdb
+C:\Users\gconlon13\Desktop\calculatorApp\calculatorApp\Bin\Debug\AppManifest.xaml
+C:\Users\gconlon13\Desktop\calculatorApp\calculatorApp\Bin\Debug\calculatorApp.xap
+C:\Users\gconlon13\Desktop\calculatorApp\calculatorApp\obj\Debug\XapCacheFile.xml
+Q:\gconlon13\CS396\WIndows 7 HW\calculatorApp\calculatorApp\Bin\Debug\ApplicationIcon.png
+Q:\gconlon13\CS396\WIndows 7 HW\calculatorApp\calculatorApp\Bin\Debug\Background.png
+Q:\gconlon13\CS396\WIndows 7 HW\calculatorApp\calculatorApp\Bin\Debug\calculatorApp.dll
+Q:\gconlon13\CS396\WIndows 7 HW\calculatorApp\calculatorApp\Bin\Debug\calculatorApp.pdb
+Q:\gconlon13\CS396\WIndows 7 HW\calculatorApp\calculatorApp\obj\Debug\ResolveAssemblyReference.cache
+Q:\gconlon13\CS396\WIndows 7 HW\calculatorApp\calculatorApp\obj\Debug\App.g.i.cs
+Q:\gconlon13\CS396\WIndows 7 HW\calculatorApp\calculatorApp\obj\Debug\MainPage.g.i.cs
+Q:\gconlon13\CS396\WIndows 7 HW\calculatorApp\calculatorApp\obj\Debug\calculatorApp.g.resources
+Q:\gconlon13\CS396\WIndows 7 HW\calculatorApp\calculatorApp\obj\Debug\calculatorApp.dll
+Q:\gconlon13\CS396\WIndows 7 HW\calculatorApp\calculatorApp\obj\Debug\calculatorApp.pdb

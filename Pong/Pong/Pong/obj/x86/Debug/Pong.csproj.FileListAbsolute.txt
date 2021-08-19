@@ -1,0 +1,10 @@
+C:\Users\gconlon13\Desktop\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+C:\Users\gconlon13\Desktop\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+C:\Users\gconlon13\Desktop\Pong\Pong\Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gconlon13\Desktop\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\gconlon13\Desktop\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+C:\Users\gconlon13\Desktop\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+C:\Users\gconlon13\Desktop\Pong\Pong\Pong\bin\x86\Debug\Content\ball.xnb
+C:\Users\gconlon13\Desktop\Pong\Pong\Pong\bin\x86\Debug\Content\paddle.xnb
+C:\Users\gconlon13\Desktop\Pong\Pong\Pong\bin\x86\Debug\Content\wall.xnb
+C:\Users\gconlon13\Desktop\Pong\Pong\Pong\bin\x86\Debug\Content\GameThumbnail.xnb

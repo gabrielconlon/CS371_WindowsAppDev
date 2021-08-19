@@ -1,0 +1,5 @@
+Q:\gconlon13\CS371\GradeBook\GradeBook\bin\Debug\GradeBook.exe
+Q:\gconlon13\CS371\GradeBook\GradeBook\bin\Debug\GradeBook.pdb
+Q:\gconlon13\CS371\GradeBook\GradeBook\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\gconlon13\CS371\GradeBook\GradeBook\obj\x86\Debug\GradeBook.exe
+Q:\gconlon13\CS371\GradeBook\GradeBook\obj\x86\Debug\GradeBook.pdb

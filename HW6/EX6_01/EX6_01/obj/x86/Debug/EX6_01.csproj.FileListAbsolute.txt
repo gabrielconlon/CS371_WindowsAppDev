@@ -1,0 +1,9 @@
+Q:\gconlon13\CS371\HW6\EX6_01\EX6_01\bin\Debug\EX6_01.exe
+Q:\gconlon13\CS371\HW6\EX6_01\EX6_01\bin\Debug\EX6_01.pdb
+Q:\gconlon13\CS371\HW6\EX6_01\EX6_01\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\gconlon13\CS371\HW6\EX6_01\EX6_01\obj\x86\Debug\EX6_01.Form1.resources
+Q:\gconlon13\CS371\HW6\EX6_01\EX6_01\obj\x86\Debug\EX6_01.Properties.Resources.resources
+Q:\gconlon13\CS371\HW6\EX6_01\EX6_01\obj\x86\Debug\GenerateResource.read.1.tlog
+Q:\gconlon13\CS371\HW6\EX6_01\EX6_01\obj\x86\Debug\GenerateResource.write.1.tlog
+Q:\gconlon13\CS371\HW6\EX6_01\EX6_01\obj\x86\Debug\EX6_01.exe
+Q:\gconlon13\CS371\HW6\EX6_01\EX6_01\obj\x86\Debug\EX6_01.pdb

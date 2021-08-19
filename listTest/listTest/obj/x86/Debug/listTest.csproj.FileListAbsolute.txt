@@ -1,0 +1,5 @@
+Q:\gconlon13\CS371\listTest\listTest\bin\Debug\listTest.exe
+Q:\gconlon13\CS371\listTest\listTest\bin\Debug\listTest.pdb
+Q:\gconlon13\CS371\listTest\listTest\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\gconlon13\CS371\listTest\listTest\obj\x86\Debug\listTest.exe
+Q:\gconlon13\CS371\listTest\listTest\obj\x86\Debug\listTest.pdb

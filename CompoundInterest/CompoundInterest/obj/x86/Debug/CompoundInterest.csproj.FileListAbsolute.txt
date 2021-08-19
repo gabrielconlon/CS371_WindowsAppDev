@@ -1,0 +1,9 @@
+Q:\gconlon13\CS371\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.exe
+Q:\gconlon13\CS371\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.pdb
+Q:\gconlon13\CS371\CompoundInterest\CompoundInterest\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\gconlon13\CS371\CompoundInterest\CompoundInterest\obj\x86\Debug\CompoundInterest.CompoundInterest.resources
+Q:\gconlon13\CS371\CompoundInterest\CompoundInterest\obj\x86\Debug\CompoundInterest.Properties.Resources.resources
+Q:\gconlon13\CS371\CompoundInterest\CompoundInterest\obj\x86\Debug\GenerateResource.read.1.tlog
+Q:\gconlon13\CS371\CompoundInterest\CompoundInterest\obj\x86\Debug\GenerateResource.write.1.tlog
+Q:\gconlon13\CS371\CompoundInterest\CompoundInterest\obj\x86\Debug\CompoundInterest.exe
+Q:\gconlon13\CS371\CompoundInterest\CompoundInterest\obj\x86\Debug\CompoundInterest.pdb

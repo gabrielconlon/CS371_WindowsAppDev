@@ -1,0 +1,5 @@
+Q:\gconlon13\CS371\HW2\EX02_02\EX02_02\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\gconlon13\CS371\HW2\EX02_02\EX02_02\bin\Debug\EX02_02.exe
+Q:\gconlon13\CS371\HW2\EX02_02\EX02_02\bin\Debug\EX02_02.pdb
+Q:\gconlon13\CS371\HW2\EX02_02\EX02_02\obj\x86\Debug\EX02_02.exe
+Q:\gconlon13\CS371\HW2\EX02_02\EX02_02\obj\x86\Debug\EX02_02.pdb

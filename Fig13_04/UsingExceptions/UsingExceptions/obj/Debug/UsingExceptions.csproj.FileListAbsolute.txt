@@ -1,0 +1,7 @@
+Y:\TextExamples\ch13\Fig13_04\UsingExceptions\UsingExceptions\bin\Debug\UsingExceptions.exe
+Y:\TextExamples\ch13\Fig13_04\UsingExceptions\UsingExceptions\bin\Debug\UsingExceptions.pdb
+Y:\TextExamples\ch13\Fig13_04\UsingExceptions\UsingExceptions\obj\Debug\ResolveAssemblyReference.cache
+Y:\TextExamples\ch13\Fig13_04\UsingExceptions\UsingExceptions\obj\Debug\UsingExceptions.exe
+Y:\TextExamples\ch13\Fig13_04\UsingExceptions\UsingExceptions\obj\Debug\UsingExceptions.pdb
+Q:\gconlon13\CS371\Fig13_04\UsingExceptions\UsingExceptions\obj\Debug\UsingExceptions.exe
+Q:\gconlon13\CS371\Fig13_04\UsingExceptions\UsingExceptions\obj\Debug\UsingExceptions.pdb

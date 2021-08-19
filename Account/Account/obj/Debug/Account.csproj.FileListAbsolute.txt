@@ -1,0 +1,5 @@
+C:\Users\gconlon13\Desktop\Account\Account\bin\Debug\Account.exe
+C:\Users\gconlon13\Desktop\Account\Account\bin\Debug\Account.pdb
+C:\Users\gconlon13\Desktop\Account\Account\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gconlon13\Desktop\Account\Account\obj\Debug\Account.exe
+C:\Users\gconlon13\Desktop\Account\Account\obj\Debug\Account.pdb

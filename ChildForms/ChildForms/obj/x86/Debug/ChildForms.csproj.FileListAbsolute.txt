@@ -1,0 +1,10 @@
+Q:\gconlon13\CS371\ChildForms\ChildForms\bin\Debug\ChildForms.pdb
+Q:\gconlon13\CS371\ChildForms\ChildForms\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\gconlon13\CS371\ChildForms\ChildForms\obj\x86\Debug\ChildForms.MainWindow.resources
+Q:\gconlon13\CS371\ChildForms\ChildForms\obj\x86\Debug\ChildForms.Properties.Resources.resources
+Q:\gconlon13\CS371\ChildForms\ChildForms\obj\x86\Debug\GenerateResource.read.1.tlog
+Q:\gconlon13\CS371\ChildForms\ChildForms\obj\x86\Debug\GenerateResource.write.1.tlog
+Q:\gconlon13\CS371\ChildForms\ChildForms\obj\x86\Debug\ChildForms.pdb
+Q:\gconlon13\CS371\ChildForms\ChildForms\obj\x86\Debug\ChildForms.Address.resources
+Q:\gconlon13\CS371\ChildForms\ChildForms\bin\Debug\ChildForms.dll
+Q:\gconlon13\CS371\ChildForms\ChildForms\obj\x86\Debug\ChildForms.dll

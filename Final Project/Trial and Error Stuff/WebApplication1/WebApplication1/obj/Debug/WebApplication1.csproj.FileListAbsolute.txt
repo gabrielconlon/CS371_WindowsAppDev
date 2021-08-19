@@ -1,0 +1,5 @@
+Q:\gconlon13\CS371\Final Project\Trial and Error Stuff\WebApplication1\WebApplication1\bin\WebApplication1.dll
+Q:\gconlon13\CS371\Final Project\Trial and Error Stuff\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+Q:\gconlon13\CS371\Final Project\Trial and Error Stuff\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+Q:\gconlon13\CS371\Final Project\Trial and Error Stuff\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+Q:\gconlon13\CS371\Final Project\Trial and Error Stuff\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

@@ -1,0 +1,9 @@
+Q:\gconlon13\CS371\Calculator\Calculator\bin\Debug\Calculator.exe
+Q:\gconlon13\CS371\Calculator\Calculator\bin\Debug\Calculator.pdb
+Q:\gconlon13\CS371\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\gconlon13\CS371\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+Q:\gconlon13\CS371\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+Q:\gconlon13\CS371\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+Q:\gconlon13\CS371\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+Q:\gconlon13\CS371\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+Q:\gconlon13\CS371\Calculator\Calculator\obj\x86\Debug\Calculator.pdb

@@ -1,0 +1,5 @@
+C:\Users\gconlon13\Desktop\CS371\HW4\EX5\EX5\bin\Debug\EX5.exe
+C:\Users\gconlon13\Desktop\CS371\HW4\EX5\EX5\bin\Debug\EX5.pdb
+C:\Users\gconlon13\Desktop\CS371\HW4\EX5\EX5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gconlon13\Desktop\CS371\HW4\EX5\EX5\obj\x86\Debug\EX5.exe
+C:\Users\gconlon13\Desktop\CS371\HW4\EX5\EX5\obj\x86\Debug\EX5.pdb

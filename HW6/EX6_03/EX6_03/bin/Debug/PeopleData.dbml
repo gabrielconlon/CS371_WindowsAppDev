@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Roster" Class="PeopleDataDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\Roster.mdf;Integrated Security=True;User Instance=True" SettingsObjectName="EX6_03.Properties.Settings" SettingsPropertyName="RosterConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.People" Member="Peoples">
+    <Type Name="People">
+      <Column Name="LastName" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="FirstName" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="Rank" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="RankCode" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
